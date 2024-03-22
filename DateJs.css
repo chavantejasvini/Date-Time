@@ -1,0 +1,60 @@
+#dt {
+    color: olive;
+    text-align: center;
+    /* margin-top: 10%; */
+    margin-right: 800px;
+    font-size: 90px;
+    color: lightcoral; 
+    font-family: italic;
+    text-shadow: opx opx 10px; 
+    -webkit-text-stroke: 2px red;
+    /* background-color: whitesmoke; */
+}
+
+#tm {
+    color: blue;
+    text-align: center;
+    /* margin-top: 2%; */
+    margin-left: 0px; 
+    margin-right: 800px;
+    font-size: 90px;
+    color: lightcoral; 
+    font-family: italic;
+    text-shadow: opx opx 10px; 
+    -webkit-text-stroke: 2px red;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/15/69/5skYAa.gif);
+    
+}
+#dt {
+    color: olive;
+    text-align: center;
+    /* margin-top: 10%; */
+    margin-right: 800px;
+    font-size: 90px;
+    color: lightcoral; 
+    font-family: italic;
+    text-shadow: opx opx 10px;
+    -webkit-text-stroke: 2px red;
+    /* background-color: whitesmoke; */
+}
+
+#tm {
+    color: blue;
+    text-align: center;
+    /* margin-top: 2%; */
+    margin-left: 0px; /* This line is redundant, as you're not changing the default margin-left value */
+    margin-right: 800px;
+    font-size: 90px;
+    color: lightcoral; /* This line is redundant, as you're redefining the color immediately after */
+    font-family: italic;
+    text-shadow: opx opx 10px; /* There seems to be a typo here. It should be '0px' instead of 'opx' */
+    -webkit-text-stroke: 2px red;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/15/69/5skYAa.gif);
+    /* background-attachment: ; */ /* You can remove this line as it's commented out */
+}
